@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reyhan :D
 - ✨ I’m interested in cybersecurity and exploring multiple aspects of tech
-- 🌱 I’m currently a second year CS student
+- 🌱 I’m currently a third year CS student
 - 💞️ I enjoy reading (a lot)
 - 👆 Check out my Devpost Portfolio for Detailed Project Information: https://devpost.com/remik02
 - 📫 Connect with me on [https://www.linkedin.com/in/reyhan-emik-](https://www.linkedin.com/in/reyhan-emik-)
